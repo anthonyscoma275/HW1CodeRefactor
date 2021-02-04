@@ -1,2 +1,31 @@
 # HW1CodeRefactor
-Week 1 Homework Code Refactor
+
+Code Refactor work for Horiseon Marketing Agency
+
+<!-- Changes made to this document -->
+
+*Changed <div> to <nav> on line 12 and 27 in html file
+
+*Changed <div> to <sec> on line 29 and 51 in html file
+
+*Changed <div> to <footer> on line 75 and 80 in html file
+
+*Added alt tags to all images
+
+*Changed bottom padding on class=benefits from 20px to 80px
+
+*Combined multiple selectors in CSS for a more consolidated code
+
+*Changed <footer> h2 to <footer> h4 so the heading attributes fall in sequential order.
+
+
+```md
+![alt text](images/screenshot-1.png)
+```
+```md
+![alt text](images/screenshot-2.png)
+```
+```md
+![alt text](images/screenshot-3.png)
+```
+URL= file:///C:/Users/antho/OneDrive/Desktop/HW1CodeRefactor/index.html
