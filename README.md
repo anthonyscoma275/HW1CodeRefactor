@@ -1,5 +1,10 @@
 # HW1CodeRefactor
 
+<!-- New Changes added 2/8/2020. -->
+*Changed sec to section on line 33 and 55 in html file
+*Changed div to aside on line 56 and 78 in html file
+*Added main tag on line 13 and 79 in html file
+
 Code Refactor work for Horiseon Marketing Agency
 
 <!-- Changes made to this document -->
